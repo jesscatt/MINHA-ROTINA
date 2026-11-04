@@ -1,0 +1,1 @@
+import {AppShell} from "@/components/app-shell";import {AgendaView} from "@/components/functional-pages";export default function AgendaPage(){return <AppShell active="calendar"><AgendaView/></AppShell>}

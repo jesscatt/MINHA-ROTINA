@@ -1,0 +1,1 @@
+import {AppShell} from "@/components/app-shell";import {ReportsView} from "@/components/functional-pages";export default function ReportsPage(){return <AppShell active="reports"><ReportsView/></AppShell>}

@@ -1,0 +1,1 @@
+import {AppShell} from "@/components/app-shell";import {NotificationsView} from "@/components/functional-pages";export default function NotificationsPage(){return <AppShell active="notifications"><NotificationsView/></AppShell>}

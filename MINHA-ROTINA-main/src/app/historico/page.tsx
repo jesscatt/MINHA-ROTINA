@@ -1,0 +1,1 @@
+import {AppShell} from "@/components/app-shell";import {HistoryView} from "@/components/functional-pages";export default function HistoryPage(){return <AppShell active="history"><HistoryView/></AppShell>}

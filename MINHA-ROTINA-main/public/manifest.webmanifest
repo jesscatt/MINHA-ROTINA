@@ -1,0 +1,11 @@
+{
+  "name": "Minha Rotina",
+  "short_name": "Minha Rotina",
+  "description": "Organize suas atividades e acompanhe sua rotina.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#172b42",
+  "icons": []
+}
